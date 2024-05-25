@@ -1,3 +1,4 @@
 # Trilha-de-Treinee-2024-FEA.dev
-@GB-Navarro
-@Igout
+Grupo 08
+https://github.com/GB-Navarro
+https://github.com/Igout
